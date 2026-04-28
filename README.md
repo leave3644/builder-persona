@@ -430,17 +430,6 @@ Posts created using this framework, across three platforms from the same builder
 
 ### XHS (Xiaohongshu) — Real Self
 
-> *十年前，我从亚特兰大搬到旧金山。*
-> *不是冲动，是一种"直觉式的迁徙"——*
-> *当你隐约知道自己的人生将被重新排列，但还不知道会变成什么样。*
->
-> *城市很自由，我却很慌。*
->
-> *十年之后，我又回到 Dolores Park。坐在同样的位置。看着同样的阳光。*
-> *但我已经不再问那些问题了。*
->
-> *人生不是靠抓住每个机会赢的。人生是靠做对的选择赢的。*
-
 **Why it works**: Broken lines, rhythm-based. High vulnerability — LinkedIn Kelly would never write this. Grounded in a specific scene (Dolores Park), not abstract reflection. Emotional but controlled.
 
 ---
@@ -471,11 +460,6 @@ Kelly builds AI products and writes about what she sees from the inside.
 
 Currently **Chief of Staff / Work Trial AI Product & GTM Lead at [Final Round AI](https://www.finalroundai.com/)** — the #1 real-time AI interview assistant with 10M+ users. Previously founded **Opencord AI** (AI Agent startup, 3x Product Hunt launch). Before that, **PayPal** Innovation Lab, where she led AR-InstaShop and drove a 5,000-person Global Innovation Tournament.
 
-**Background**: Georgia Tech (Computer Science + Psychology), INSEAD MBA (Women's Scholarship), Harvard Business School Online x3.
-
-The CS + Psychology combination shapes everything in this playbook — she sees AI products through **"how will humans behave?"** before "how does the system work?"
-
-**Her core pattern**: Admit she can't do something → learn by doing → write the methodology 30 days later. This playbook exists because she did exactly that with her own personal brand across three platforms.
 
 | | |
 |:--|:--|
